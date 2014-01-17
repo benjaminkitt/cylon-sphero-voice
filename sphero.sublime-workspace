@@ -1,0 +1,1055 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Noti",
+				"Notification"
+			],
+			[
+				"Notif",
+				"NotificationSchema"
+			],
+			[
+				"htp",
+				"httpBackend"
+			],
+			[
+				"respond",
+				"respondTo"
+			],
+			[
+				"get",
+				"getNotifications"
+			],
+			[
+				"Not",
+				"NotificationResource"
+			],
+			[
+				"notification",
+				"notificationCountEndpoint"
+			],
+			[
+				"quer",
+				"queriedNotifications"
+			],
+			[
+				"Notification",
+				"NotificationResource"
+			],
+			[
+				"noti",
+				"notifications"
+			],
+			[
+				"notifi",
+				"notificationCount"
+			],
+			[
+				"alert",
+				"alertQueue"
+			],
+			[
+				"aler",
+				"alertTimeToLive"
+			],
+			[
+				"_No",
+				"_NotificationProvider_"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"respon",
+				"respondTo"
+			],
+			[
+				"new",
+				"newNotification"
+			],
+			[
+				"notif",
+				"notifications"
+			],
+			[
+				"not",
+				"notificationEndpoint"
+			],
+			[
+				"http",
+				"httpBackend"
+			],
+			[
+				"_",
+				"_Notification"
+			],
+			[
+				"total",
+				"totalCount"
+			],
+			[
+				"most",
+				"mostRecentResult"
+			],
+			[
+				"ht",
+				"httpBackend"
+			],
+			[
+				"mock",
+				"mockMatches"
+			],
+			[
+				"address",
+				"addressMatches"
+			],
+			[
+				"update",
+				"updateLocation"
+			],
+			[
+				"crea",
+				"createMap"
+			],
+			[
+				"$st",
+				"$stateProvider"
+			],
+			[
+				"stat",
+				"stateProvider"
+			],
+			[
+				"$lo",
+				"$locationProvider"
+			],
+			[
+				"$root",
+				"$rootScope"
+			],
+			[
+				"geo",
+				"geocode"
+			],
+			[
+				"addressMatch",
+				"$scope.addressMatchesMinLength"
+			],
+			[
+				"add",
+				"geocoderAddress.addressComponents"
+			],
+			[
+				"us",
+				"useLongNames"
+			],
+			[
+				"match",
+				"matchIndex"
+			],
+			[
+				"stree",
+				"streetNumber"
+			],
+			[
+				"stre",
+				"streetNumber"
+			],
+			[
+				"type",
+				"typeIndex"
+			],
+			[
+				"com",
+				"componentIndex"
+			],
+			[
+				"addr",
+				"geocoderAddress.addressComponents.length"
+			],
+			[
+				"gd",
+				"geocoderAddress"
+			],
+			[
+				"geoco",
+				"geocoder.geocode"
+			],
+			[
+				"de",
+				"deferred"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"docu",
+				"documentEndPoint"
+			],
+			[
+				"coll",
+				"collectionEndPoint"
+			],
+			[
+				"api",
+				"apiEndPoint"
+			],
+			[
+				"Home",
+				"HomeSchema"
+			],
+			[
+				"permiss",
+				"permissionType"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"login",
+				"loginUser"
+			],
+			[
+				"Auth",
+				"AuthServiceMock"
+			],
+			[
+				"Au",
+				"AuthServiceMock"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"for",
+				"formatUser"
+			],
+			[
+				"newU",
+				"newUserReg"
+			],
+			[
+				"house",
+				"houseraterApp"
+			],
+			[
+				"cookie",
+				"CookieStore"
+			],
+			[
+				"use",
+				"userObj"
+			],
+			[
+				"angular",
+				"angular-cookies"
+			],
+			[
+				"pro",
+				"protractor"
+			],
+			[
+				"test",
+				"test-prereq"
+			],
+			[
+				"$http",
+				"$httpBackend"
+			],
+			[
+				"auth",
+				"authenticatedUser"
+			],
+			[
+				"$htt",
+				"$httpBackend"
+			],
+			[
+				"install",
+				"install_dev"
+			],
+			[
+				"font",
+				"font_awesome_fonts"
+			],
+			[
+				"bower",
+				"bower_components"
+			],
+			[
+				"profile",
+				"ProfileCtrl"
+			],
+			[
+				"angularUi",
+				"angularUiBootstrap"
+			],
+			[
+				"selecte",
+				"selectedUser"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"require",
+				"requirePermission"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"dir",
+				"directives"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"selected",
+				"selectedPermissionChildren"
+			],
+			[
+				"stylesh",
+				"stylesheets"
+			],
+			[
+				"consol",
+				"console.log();"
+			],
+			[
+				"high",
+				"highThreshold"
+			],
+			[
+				"visionI",
+				"visionImageContainer"
+			],
+			[
+				"frequency",
+				"frequencySlider"
+			],
+			[
+				"frequenc",
+				"frequencySlider"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"style",
+				"stylesheets"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"currentImage",
+				"currentImageFile"
+			],
+			[
+				"proces",
+				"process.cwd();"
+			],
+			[
+				"symlink",
+				"fs.symlink(destination, path, type_, callback);"
+			],
+			[
+				"proc",
+				"process.cwd();"
+			],
+			[
+				"up",
+				"updateFrequencyNbr"
+			],
+			[
+				"sock",
+				"socketImage"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 159.0,
+		"selected_items":
+		[
+			[
+				"beau",
+				"Javascript Beautify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rien",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"show ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"gutt",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"no",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"con",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"change",
+				"ChangeQuotes"
+			],
+			[
+				"chan",
+				"ChangeQuotes"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"lint",
+				"JSLint"
+			],
+			[
+				"synta",
+				"Set Syntax: JSON"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"g",
+				"Grunt"
+			],
+			[
+				"grunt ki",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Create Binary Package File"
+			],
+			[
+				"packag",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packup",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: Upgrade/Overwrite All Packages",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syntax: ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"specia",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ngsh",
+				"Snippet: ngShow"
+			],
+			[
+				"ng",
+				"Snippet: ngRepeat"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"snip",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/services/program.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/services/program.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/services/Home.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/views/index.html",
+		"/Users/benjamin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/services/State.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/services/Home.js",
+		"/Users/benjamin/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/.jshintrc",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/.jshintrc.old",
+		"/Users/benjamin/Desktop/us-random.csv",
+		"/Users/benjamin/Desktop/us-map-data.json",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/services/Notification.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/controllers/homes-add.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/app.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/views/homes.view.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/controllers/homes-view.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/directives/alert.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/services/Notification.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/styles/_alerts.scss",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/directives/alert.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/controllers/HomesView.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/styles/main.scss",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/models/notification.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/routes/routes.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/bower.json",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/package.json",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/bower_components/angular/angular.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/node_modules/node-sass/libsass/old/ast_node.hpp",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/node_modules/grunt/AUTHORS",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/services/test-value.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/services/test-constant.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/services/Auth.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/helpers/Objectid.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/services/Auth.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/models/home.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/controllers/homes-add.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/services/Mapping.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/views/homes.add.address.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/controllers/homes-add-address.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/models/utility.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/karma.conf.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/Gruntfile.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/controllers/homes-add-address.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/services/Mapping.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/controllers/homes.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/views/homes.add.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/controllers/main.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/controllers/homes.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/helpers/q.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/views/homes.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/services/home.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/controllers/homesAdd.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/services/home.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/views/public.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/styles/_homes.scss",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/helpers/googlemaps.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/views/scraper_templates.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/views/dashboard.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/styles/select2-bootstrap.css",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/.bowerc",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/routes/auth/auth.route.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/server-unit/spec/server.spec.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/controllers/main.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/e2e/spec/requests.spec.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/models/user.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/e2e/basic.conf.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/controllers/header.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/controllers/profile.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/controllers/admin-permissions.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/controllers/admin-permissions-item.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/controllers/admin-users.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/styles/_bootstrap.variables.scss",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/views/profile.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/views/index.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/controllers/header.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/routes/index.route.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/client-unit/spec/services/authenticatedUser.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts/services/authenticatedUser.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/houserater.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/routes/db.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/routes/user/user.route.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/models/user.schema.js",
+		"/Users/benjamin/Library/Application Support/Sublime Text 3/Packages/JSLint/JSLint.sublime-build",
+		"/Users/benjamin/Library/Application Support/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/Users/benjamin/Library/Application Support/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/server-unit/spec/spec.helper.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/e2e/requests-e2e-spec.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/protractor-config.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/e2e/requestsSpec_karma_old.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/runner.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/test/.jshintrc",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/karma-e2e.conf.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/views/index.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/app/styles/main.scss",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/app/scripts/controllers/header.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/test/spec/controllers/header.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/test/spec/services/Auth.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/app/scripts/services/Auth.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/routes/auth/auth.route.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/Gruntfile.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/app/scripts/controllers/main.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/test/spec/controllers/main.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/app/views/main.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/app/views/programs.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/app/views/report_templates.html",
+		"/Users/benjamin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/routes/routes.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/test/spec/services/authenticatedUser.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/app/scripts/services/authenticatedUser.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/app/scripts/app.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/public/app/scripts/main.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/public/app/scripts/app.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater/public/app/scripts/controllers/headerCtrl.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/app/index.html",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/karma.conf.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/bower.json",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/package.json",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/test/e2e/basic.conf.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/test/e2e/spec/requests.spec.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/routes/index.route.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/basic.conf.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/karma-e2e.conf.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/test/e2e/requestsSpec_karma_old.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/test/e2e/package.json",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/test/e2e/README.txt",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/app/scripts/controllers/profile.js",
+		"/Users/benjamin/HouseRater/Code/Beta/houserater-new/test/spec/controllers/profile.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/benjamin/HouseRater/Code/Beta/houserater/app/views",
+			"/Users/benjamin/HouseRater/Code/Beta/houserater/app/scripts,/Users/benjamin/HouseRater/Code/Beta/houserater/routes",
+			"/Users/benjamin/HouseRater/Code/Beta/houserater/app,/Users/benjamin/HouseRater/Code/Beta/houserater/routes",
+			"/Users/benjamin/HouseRater/Code/Beta/houserater/",
+			"/Users/benjamin/HouseRater/Code/Beta/houserater/public/app/scripts",
+			"/Users/benjamin/HouseRater/Code/Beta/houserater/",
+			"/Users/benjamin/HouseRater/Code/Beta/houserater/*",
+			"/Users/benjamin/HouseRater/Code/Beta/houserater/public/partials",
+			"/Users/benjamin/HouseRater/Code/Beta/houserater/public/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<i",
+			"lodash",
+			"alert-",
+			"https",
+			"src",
+			"src=",
+			"https:",
+			",'",
+			"g,",
+			",.",
+			" - ",
+			" ",
+			"src='",
+			", ",
+			"alert-",
+			"noti",
+			"dr-notification",
+			"join",
+			"1.2.0",
+			"_id",
+			"send",
+			"notifier",
+			"zip",
+			"stub",
+			"doc",
+			"updateAddress",
+			"navbar",
+			"\"",
+			"Header",
+			"navbar",
+			"db",
+			"user.db",
+			"passport",
+			"AuthServiceMock",
+			"console",
+			"Auth.user",
+			"\"",
+			"protrac",
+			"karma",
+			"connect:live",
+			"Core",
+			"$watch",
+			"background",
+			"form",
+			"font",
+			"partials",
+			"watch",
+			"bootstrap",
+			"ui.event",
+			"modules/main",
+			"modules",
+			"requirejs",
+			"modules/main",
+			"ng-options",
+			"ngOptions",
+			"select",
+			"scroll",
+			"table",
+			"permissionsTree",
+			"h5",
+			"h4",
+			"h3",
+			"h2",
+			"h1",
+			"table",
+			"images",
+			"button",
+			"onblur",
+			"delete",
+			"users",
+			"border-right",
+			"json",
+			"here be"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hr-alert-",
+			"http",
+			"style='width: 100%; height: auto' src",
+			"style='width: 100%; height: auto' src=",
+			"http:",
+			"+-+",
+			"src='https://2013.slideshow.s3.amazonaws.com/",
+			"' class='rsr-slideshow-img'>\", \n\"type\" : 0 \n},\n{ \n\"text\" : \"<img src='",
+			"' class='rsr-slideshow-img'>\", \n\"type\" : 0 \n},\n{ \n\"item\" : [{ \n\"text\" : \"<img src='",
+			"hr-alert-",
+			"alert",
+			"1.2.1",
+			"updateLocation",
+			"'",
+			"Auth",
+			"Auth.getUser()",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 257.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "sphero.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Code/rsrweb/sublime/rsrweb.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

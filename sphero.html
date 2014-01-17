@@ -1,0 +1,96 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Speech Loop</title>
+<style>body { font: 1.5em sans-serif; } output { display: block; }</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<body>
+<script>
+	if (!('contains' in String.prototype)) {
+		String.prototype.contains = function(str, startIndex) {
+			return -1 !== String.prototype.indexOf.call(this, str, startIndex);
+		};
+	}
+
+	var respond = function(event) {
+		var resultLength = event.results.length;
+		var result = event.results[resultLength - 1];
+		var colors = "aliceblue,antiquewhite,aqua,aquamarine,azure,beige,bisque,black,blanchedalmond,blue,blueviolet,brown,burlywood,cadetblue,chartreuse,chocolate,coral,cornflowerblue,cornsilk,crimson,cyan,darkblue,darkcyan,darkgoldenrod,darkgray,darkgreen,darkkhaki,darkmagenta,darkolivegreen,darkorange,darkorchid,darkred,darksalmon,darkseagreen,darkslateblue,darkslategray,darkturquoise,darkviolet,deeppink,deepskyblue,dimgray,dodgerblue,firebrick:,floralwhite,forestgreen,fuchsia,gainsboro,ghostwhite,gold,goldenrod,gray,green,greenyellow,honeydew,hotpink,indianred,indigo,ivory,khaki,lavender,lavenderblush,lawngreen,lemonchiffon,lightblue,lightcoral,lightcyan,lightgoldenrodyellow,lightgreen,lightgrey,lightpink,lightsalmon,lightseagreen,lightskyblue,lightslategray,lightsteelblue,lightyellow,lime,limegreen,linen,magenta,maroon,mediumaquamarine,mediumblue,mediumorchid,mediumpurple,mediumseagreen,mediumslateblue,mediumspringgreen,mediumturquoise,mediumvioletred,midnightblue,mintcream,mistyrose,moccasin,navajowhite,navy,oldlace,olive,olivedrab,orange,orangered,orchid,palegoldenrod,palegreen,paleturquoise,palevioletred,papayawhip,peachpuff,peru,pink,plum,powderblue,purple,red,rosybrown,royalblue,saddlebrown,salmon,sandybrown,seagreen,seashell,sienna,silver,skyblue,slateblue,slategray,snow,springgreen,steelblue,tan,teal,thistle,tomato,turquoise,violet,wheat,white,whitesmoke,yellow,yellowgreen";
+		var directions = "left,right,forward,backward";
+		var shapes = "square";
+		var text = '';
+		var animating = false;
+		colors = colors.split(',');
+		directions = directions.split(',');
+		text = result[0].transcript;
+		console.log(result[0].confidence);
+		text = text.split(' ').pop();
+var con = (result[0].confidence * 100 ) < 75 ? false : true;
+
+		setTimeout(function(){
+			animating = false;
+		}, 1000);
+
+if (!animating && con) {
+
+	for (i = 0; i < colors.length; i++ ) {
+		if (text.contains(colors[i])) {
+			console.log(colors[i]);
+			$.get('http://localhost:3000/colorme/' + colors[i]);
+			text = '';
+		}
+	}
+	for (i = 0; i < directions.length; i++ ) {
+		if (text.contains(directions[i])) {
+			console.log(directions[i]);
+			$.get('http://localhost:3000/moveme/' + directions[i]);
+			text = '';
+		}
+	}
+
+
+	if (text === 'square') {
+
+		$.get('http://localhost:3000/moveme/square');
+
+
+	}
+	animating = true;
+}
+
+
+	}
+
+
+	var createOutput = function() {
+		var output = document.createElement('output');
+		output.style.color = 'gray';
+		document.body.appendChild(output);
+
+		return output;
+	}
+
+	var speak = function(text) {
+		// chrome://flags -> Enable experimental Web Platform features
+		var utterance = new SpeechSynthesisUtterance(text);
+		utterance.lang = 'en_GB';
+		utterance.volume = 1; // 0 to 1
+		utterance.rate = 1; // 0.1 to 10
+		utterance.pitch = 1; //0 to 2
+		window.speechSynthesis.speak(utterance);
+	}
+
+	var listen = function() {
+		var recognition = new webkitSpeechRecognition();
+		recognition.continuous = true;
+		recognition.interimResults = true;
+		recognition.lang = 'en_GB';
+		recognition.start();
+		recognition.onresult = respond;
+
+		//recognition.onend = function(event) { console.log(event) };
+	}
+
+	var output = createOutput();
+	listen();
+</script>
+</body>
